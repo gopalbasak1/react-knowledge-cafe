@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/rvpQJpg/7048312.jpg",
+    "title": "The Secret Garden",
+    "author_img": "https://i.ibb.co/xsLW8w7/portrait-smiling-student-writing-classroom.jpg",
+    "author": "Frances Hodgson Burnett",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": 5,
+    "hashtags": ["fiction", "classics", "nature"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/rvpQJpg/7048312.jpg",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "author_img": "https://i.ibb.co/xsLW8w7/portrait-smiling-student-writing-classroom.jpg",
+    "posted_date": "Feb 14 (1 months 4 Days ago)",
+    "reading_time": 4,
+    "hashtags": ["fiction", "roaring twenties"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/rvpQJpg/7048312.jpg",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "author_img": "https://i.ibb.co/xsLW8w7/portrait-smiling-student-writing-classroom.jpg",
+    "posted_date": "Mar 15 (3 Days ago)",
+    "reading_time": 10,
+    "hashtags": ["fiction", "social justice"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/rvpQJpg/7048312.jpg",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "author_img": "https://i.ibb.co/xsLW8w7/portrait-smiling-student-writing-classroom.jpg",
+    "posted_date": "Jan 28 (2 months 14 Days ago)",
+    "reading_time": 9,
+    "hashtags": ["fiction", "romance", "classics"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/rvpQJpg/7048312.jpg",
+    "title": "1984",
+    "author": "George Orwell",
+    "author_img": "https://i.ibb.co/xsLW8w7/portrait-smiling-student-writing-classroom.jpg",
+    "posted_date": "March 13 (5 Days ago)",
+    "reading_time": 7,
+    "hashtags": ["fiction", "dystopian"]
+  }
+]
